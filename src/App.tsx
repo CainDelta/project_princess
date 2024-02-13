@@ -39,13 +39,13 @@ export default function Page() {
       {yesPressed ? (
         <>
 
-          <img src="https://miro.medium.com/v2/resize:fit:1000/0*wxX49gI_Mw58sm4o.gif" />
+          <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
           <div className="my-4 text-4xl font-bold">WOOOOOO!!! You're the best!! Please contact your local bae for details of your award ;))</div>
         </>
       ) : (
         <>
-    
-          <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
+
+          <img src="https://miro.medium.com/v2/resize:fit:1000/0*wxX49gI_Mw58sm4o.gif" />
           <h1 className="my-4 text-4xl">Will you be my Valentine?</h1>
           <div className="flex items-center">
             <button
